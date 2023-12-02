@@ -28,3 +28,5 @@ The platform will provide real-time access to elected officials' actions in San 
 
 All data pertaining to assembly meetings, votes, decisions, and regulations passed by elected officials are publicly available. Developers are encouraged to source datasets directly from the appropriate San Francisco government websites. Due diligence must be exercised to ensure that the data used is current, accurate, and comprehensive.
 
+## Example Hackathon Projects
+* https://devpost.com/software/poliscope
